@@ -1,0 +1,8 @@
+C:\Users\ura04\Desktop\Прога\kp3\bin\Debug\kp3.exe.config
+C:\Users\ura04\Desktop\Прога\kp3\bin\Debug\kp3.exe
+C:\Users\ura04\Desktop\Прога\kp3\bin\Debug\kp3.pdb
+C:\Users\ura04\Desktop\Прога\kp3\obj\Debug\kp3.csproj.AssemblyReference.cache
+C:\Users\ura04\Desktop\Прога\kp3\obj\Debug\kp3.csproj.SuggestedBindingRedirects.cache
+C:\Users\ura04\Desktop\Прога\kp3\obj\Debug\kp3.csproj.CoreCompileInputs.cache
+C:\Users\ura04\Desktop\Прога\kp3\obj\Debug\kp3.exe
+C:\Users\ura04\Desktop\Прога\kp3\obj\Debug\kp3.pdb
